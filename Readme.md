@@ -167,7 +167,7 @@ The goal is to provide a unified analysis framework capable of understanding the
                     Generated Code
 ```
 
-![Architecture](docs/architecture.png)
+![Architecture](demo/architecture.png)
 
 ---
 
@@ -252,7 +252,7 @@ The Semantic Analysis phase is the heart of the compiler.
 
 Its responsibility is to ensure that the program is meaningful beyond mere syntax correctness.
 
-![Semantic Analysis](docs/semantic-analysis.png)
+![Semantic Analysis](demo/semantic-analysis.png)
 
 ---
 
@@ -449,7 +449,7 @@ x = a + b
 
 This separation improves maintainability and allows future optimization passes.
 
-![Code Generation](docs/code-generation.png)
+![Code Generation](demo/code-generation.png)
 
 ---
 
